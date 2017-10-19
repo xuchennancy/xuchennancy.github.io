@@ -1,1 +1,1 @@
-# HappyBirthdayInn
+# Inns.github.io
