@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @BulletproofCircle
- Sign out
- Unwatch 1
-  Star 0  Fork 0 BulletproofCircle/BulletproofCircle.github.io
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Branch: master Find file Copy pathBulletproofCircle.github.io/Circle.js
-26910d8  5 hours ago
-@BulletproofCircle BulletproofCircle Update Circle.js
-1 contributor
-RawBlameHistory     
-60 lines (55 sloc)  2.3 KB
 /*
  * TheaterJS, a typing effect mimicking human behavior.
  *
@@ -75,15 +57,4 @@ theater
   .addScene('luke:不买不是中国人！', 1000)
   .addScene('vader:好的＠(￣-￣)＠', 3000)
   .addScene(theater.replay.bind(theater))
-© 2017 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
+
