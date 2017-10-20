@@ -30,6 +30,8 @@ theater
   .addScene('vader:我是Circle', 1000)
   .addScene('luke:我是Circle的妈咪', 1000)
   .addScene('luke:安洁莉娜.樱雪羽晗灵.蔷薇泪', 1000)
+  .addScene('luke:是一位血统纯正的仙女', 1000)
+  .addScene('vader:行吧,你喜欢就好', 1000)
   .addScene('vader:Mammy Mammy', 1000)
   .addScene('luke:咋哩嘛', 800)
   .addScene('vader:妈咪生气快乐！', 800)
