@@ -53,7 +53,7 @@ theater
   .addScene('luke:不知所言', 800)
   .addScene('luke:瑟扣之礼', 800)
   .addScene('luke:永世难忘', 800)
-  .addScene('luke:我要给我扣买最新SurfaceBook', -12, '啊不', -2, '买俩SB表达喜悦之情，在此立誓！', 1000)
+  .addScene('luke:我要给我扣买最新SurfaceBook', -12, '啊不', -2, 800, '买俩SB表达喜悦之情，在此立誓！', 1000)
   .addScene('luke:不买不是中国人！', 1000)
   .addScene('vader:好的＠(￣-￣)＠', 3000)
   .addScene(theater.replay.bind(theater))
