@@ -25,9 +25,9 @@ theater
   })
 
 theater
-  .addActor('vader', { speed: 0.6, accuracy: 0.6 })
-  .addActor('luke', { speed: 0.6, accuracy: 0.6 })
-  .addScene('vader:Ma', -2, '妈','mi',-2,'咪','妈咪', 800)
+  .addActor('vader', { speed: 0.5, accuracy: 0.6 })
+  .addActor('luke', { speed: 0.5, accuracy: 0.6 })
+  .addScene('vader:Ma', -2, '妈','mi',-2,'咪','妈咪', 1000)
   .addScene('luke:咋哩咋哩~', 800)
   .addScene('vader:妈咪生气快乐！', 800)
   .addScene('luke:谢谢女', -3, '你说啥？ ', 800, '打死你! ', 800)
