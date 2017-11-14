@@ -26,5 +26,5 @@ theater
 
 theater
   .addActor('vader', { speed: 0.6, accuracy: 0.6 })
-  .addScene('vader:我是Circle', 1000)
+  .addScene('vader:我是Circle', 2000)
   .addScene(theater.replay.bind(theater))
