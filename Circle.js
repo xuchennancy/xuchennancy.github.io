@@ -25,7 +25,7 @@ theater
   })
 
 theater
-  .addActor('vader', { speed: 0.8, accuracy: 0.6 })
+  .addActor('vader', { speed: 0.6, accuracy: 0.6 })
   .addScene('vader:哈喽学长，距离第一次见你快一个月了吧', 600)
   .addScene('vader:还记得分享会上，我向你提问', 400)
   .addScene('vader:但是那会真的不是故意的hh，就是对你没去华为感到好奇而已啦', 1600)
