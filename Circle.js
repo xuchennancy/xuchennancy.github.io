@@ -7,7 +7,17 @@
  */
 
 
-var theater = theaterJS()
+var theater = theaterJS({
+  "minSpeed": {
+    "erase": 40,
+    "type": 80
+  },
+  
+  "maxSpeed": {
+    "erase": 40,
+    "type": 450
+  }
+})
 
 theater
   .on('type:start, erase:start', function () {
