@@ -9,12 +9,12 @@
 
 var theater = theaterJS({
   "minSpeed": {
-    "erase": 40,
-    "type": 80
+    "erase": 80,
+    "type": 100
   },
   
   "maxSpeed": {
-    "erase": 40,
+    "erase": 80,
     "type": 450
   }
 })
